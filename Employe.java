@@ -5,9 +5,4 @@ public class Employe{
 	private String telephone;
 
 	private int age;
-	
-	/*
-	 *
-	 */
-	public Employe(){}
 }
